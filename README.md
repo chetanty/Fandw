@@ -1,10 +1,10 @@
-# Food and Wealth (F&w) 🥗💸
+# Food and Wealth (F&w)
 
 **Food and Wealth** is a privacy-focused Chrome Extension that analyzes your spending habits on **Uber Eats** and **DoorDash**. It provides instant insights into your total spend, top cravings, and biggest splurges without ever sending data to a server.
 
 ![F&w Promo](fnw.png)
 
-## 🚀 Features
+## Features
 
 * **Multi-Platform Support:** Works seamlessly on both Uber Eats and DoorDash order history pages.
 * **Instant Analysis:** Calculates total spend, order count, and identifies your top 3 most visited restaurants.
@@ -12,7 +12,7 @@
 * **Dual-Theme UI:** Features a beautiful Light Mode and a sleek Dark Mode that remembers your preference.
 * **Privacy First:** 100% local processing. No data is stored or transmitted.
 
-## 🛠️ How to Run Locally
+## How to Run Locally
 
 You can run this extension on your Chrome browser right now in "Developer Mode."
 
@@ -29,7 +29,7 @@ You can run this extension on your Chrome browser right now in "Developer Mode."
 5.  Select the folder containing your extension files.
 6.  The **F&w** icon should appear in your browser toolbar!
 
-## 📖 Usage
+## Usage
 
 1.  Log in to your [Uber Eats](https://www.ubereats.com/orders) or [DoorDash](https://www.doordash.com/orders) account.
 2.  Navigate to the **Orders** / **Past Orders** page.
@@ -37,7 +37,7 @@ You can run this extension on your Chrome browser right now in "Developer Mode."
 4.  Click **ANALYZE HISTORY**.
 5.  Wait for the scrolling to complete and view your financial insights!
 
-## 🔒 Privacy
+## Privacy
 
 This extension complies with strict privacy standards.
 * **Storage:** Data is stored temporarily in `chrome.storage.local` solely for the purpose of displaying results across popup re-opens.
