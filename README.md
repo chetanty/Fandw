@@ -46,7 +46,4 @@ This extension complies with strict privacy standards.
 
 [View Privacy Policy](https://www.termsfeed.com/live/33b69ad3-c072-4b91-9084-d4a7b79bf66a)
 
----
 
-**Version:** 4.0  
-**License:** MIT
